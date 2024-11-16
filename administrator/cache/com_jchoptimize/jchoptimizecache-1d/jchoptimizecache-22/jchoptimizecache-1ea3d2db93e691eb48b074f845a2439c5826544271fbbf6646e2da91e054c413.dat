@@ -1,0 +1,1 @@
+a:1:{i:0;a:1:{s:7:"content";s:315:"try{document.getElementById('themeToggle').addEventListener('click',function(){const currentTheme=document.body.className;if(currentTheme==='light-theme'){document.body.className='dark-theme';}else{document.body.className='light-theme';}});}catch(e){console.error('Error in script declaration; Error:'+e.message);};";}}

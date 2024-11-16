@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="118" viewBox="0 0 118 118">
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="77" y1="78" x2="77" y2="100"/>
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="65" y1="78" x2="65" y2="100"/>
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="103" y1="78" x2="103" y2="100"/>
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="90" y1="78" x2="90" y2="100"/>
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="15" y1="78" x2="15" y2="100"/>
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="40" y1="78" x2="40" y2="100"/>
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="52" y1="78" x2="52" y2="100"/>
+    <line fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" x1="27" y1="78" x2="27" y2="100"/>
+    <rect fill="none" stroke="#000" stroke-width="5" x="4" y="66" width="110" height="47"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" points="25.72 65.79 59.6 43.79 92.88 65.57"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M51.8,39.05a7.86,7.86,0,1,0,7.86-7.86h0v-9"/>
+    <polygon fill="none" stroke="#000" stroke-width="5" points="68.43 4.58 51.14 4.58 54.29 21.87 65.29 21.87 68.43 4.58"/>
+</svg>

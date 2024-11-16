@@ -1,0 +1,36 @@
+a:2:{s:4:"body";s:1596:"
+<!DOCTYPE html>
+<html lang="ru-ru" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="/images/fav.png" sizes="any">
+                <link rel="icon" href="/images/fav.png" type="image/svg+xml">
+                <link rel="apple-touch-icon" href="/images/fav.png">
+        <title>404 - Страница не найдена</title>
+        <link rel="stylesheet" href="/templates/yootheme/css/theme.9.css" id="theme-style">
+                <script src="/templates/yootheme/vendor/assets/uikit/dist/js/uikit.min.js"></script>
+        <script src="/templates/yootheme/vendor/assets/uikit/dist/js/uikit-icons.min.js"></script>
+                            <script src="/templates/yootheme/packages/theme/assets/js/customizer.min.js"></script>
+            <script id="customizer-data">window.yootheme = window.yootheme || {}; var $customizer = yootheme.customizer = JSON.parse(atob("bnVsbA=="));</script>            </head>
+    <body>
+
+        <main id="tm-main">
+
+            
+            <div class="uk-section uk-section-default uk-flex uk-flex-center uk-flex-middle uk-text-center" uk-height-viewport>
+                <div>
+                    <h1 class="uk-heading-xlarge">404</h1>
+                    <p class="uk-h3">Страница не найдена</p>
+                    <a class="uk-button uk-button-primary" href="/index.php">Главная страница</a>
+
+                    
+                </div>
+            </div>
+
+            
+        </main>
+
+    </body>
+</html>
+";s:7:"headers";a:9:{i:0;a:2:{s:4:"name";s:15:"x-frame-options";s:5:"value";s:10:"SAMEORIGIN";}i:1;a:2:{s:4:"name";s:15:"referrer-policy";s:5:"value";s:31:"strict-origin-when-cross-origin";}i:2;a:2:{s:4:"name";s:26:"cross-origin-opener-policy";s:5:"value";s:11:"same-origin";}i:3;a:2:{s:4:"name";s:6:"status";s:5:"value";s:3:"404";}i:4;a:2:{s:4:"name";s:12:"Content-Type";s:5:"value";s:24:"text/html; charset=utf-8";}i:5;a:2:{s:4:"name";s:7:"Expires";s:5:"value";s:29:"Wed, 17 Aug 2005 00:00:00 GMT";}i:6;a:2:{s:4:"name";s:13:"Last-Modified";s:5:"value";s:29:"Sat, 14 Sep 2024 21:05:07 GMT";}i:7;a:2:{s:4:"name";s:13:"Cache-Control";s:5:"value";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";}i:8;a:2:{s:4:"name";s:6:"Pragma";s:5:"value";s:8:"no-cache";}}}

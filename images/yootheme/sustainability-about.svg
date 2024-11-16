@@ -1,0 +1,42 @@
+<svg width="640" height="1090" viewBox="0 0 640 1090" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <defs>
+
+        <path id="svg-defs-windmill-blades" d="M344.25177,291.60124l25.03168-48.55172a42.58011,42.58011,0,0,0,3.74051-28.87879L328.11862,13.169c-3.38327-15.14-25.676-12.68785-25.66061,2.80555l-.01493,267.81533m17.54786,49.81018,29.53256,45.95606A42.58,42.58,0,0,0,372.663,397.23488l196.52524,61.61176c14.80335,4.64,23.82611-15.89215,10.40076-23.62555l-231.916-133.914m-51.92263-9.7147-54.565,2.5979a42.58,42.58,0,0,0-26.88,11.2l-151.62,139.39c-11.42,10.5,1.85,28.58,15.26,20.82L309.877,331.71169"/>
+
+        <path id="svg-defs-windmill-blades-circle" d="M320,277.6a28,28,0,1,1-28,28h0a28,28,0,0,1,28-28Zm0,11a17,17,0,1,1-17,17,17,17,0,0,1,17-17Z"/>
+
+<!--         Disabled because transitions on masks are not supported in Firefox
+
+        <mask id="svg-mask-windmill">
+            <rect fill="white" x="0" y="0" width="100%" height="100%"></rect>
+            <use xlink:href="#svg-defs-windmill-blades" uk-parallax="rotate: 0,305" style="transform-origin: 50% 305px 0px;"/>
+        </mask> -->
+
+    </defs>
+
+    <!-- <g class="svg-windmill-mast" mask="url(#svg-mask-windmill)"> -->
+
+    <g class="svg-windmill-mast">
+
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M341.049,358.5703,362.835,1077.6s-13.25,10-43,10-42.67-10-42.67-10L298.96,358.57033M361.91776,253.602H278.08261a9.89023,9.89023,0,0,0-9.94568,11.52847l15.53134,84.42813a10.04734,10.04734,0,0,0,9.94568,8.04077h52.76239a10.04725,10.04725,0,0,0,9.95575-8.04077l15.53134-84.42813a9.89685,9.89685,0,0,0-9.94567-11.52847Z"/>
+
+        <path class="uk-text-primary" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M358.8,992.08s-12,9.52-38.95,9.52-38.65-9.52-38.65-9.52m75.35-95s-11.31,8-36.69,8-36.41-8-36.41-8m71.6-57s-10.84,7-35.18,7-34.92-7-34.92-7m67.18-104.09s-9.94,5.15-32.25,5.15-32-5.15-32-5.15"/>
+
+    </g>
+
+    <g class="svg-windmill-blades" data-uk-parallax="rotate: 0,305" style="transform-origin: 50% 305px 0px;">
+
+        <use xlink:href="#svg-defs-windmill-blades" class="uk-svg-default-background" fill="#fff" style="transform-origin: 50% 305px 0px;"/>
+
+        <use xlink:href="#svg-defs-windmill-blades" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3px" style="transform-origin: 50% 305px 0px;"/>
+
+        <use xlink:href="#svg-defs-windmill-blades-circle" class="uk-svg-default-background" fill="#fff"/>
+
+        <use xlink:href="#svg-defs-windmill-blades-circle" class="uk-text-primary" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+
+        <path class="uk-text-primary" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M347.465,254.84l9.56225-18.46234a25,25,0,0,0,2.18888-16.91125l-20.92737-93.59272m11.93307,228.892,11.2078,17.51233a24.99984,24.99984,0,0,0,13.55111,10.35123L466.49811,411.302M262.3053,307.19033l-20.77.95a25,25,0,0,0-15.74,6.56l-70.59,64.92"/>
+
+    </g>
+
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="72" viewBox="0 0 73 72">
+    <line x1="61" y1="56" x2="24" y2="56" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <polygon points="6 48 20 48 20 39 12 39 6 48" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <ellipse cx="12.86" cy="65.17" rx="5.9" ry="5.87" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="47.96" cy="65.17" rx="5.9" ry="5.87" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="42 65 24 65 24 35 30 35" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <polyline points="61 37 61 65 54 65" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <line x1="39" y1="35" x2="49" y2="35" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <ellipse cx="47.96" cy="65.17" rx="5.9" ry="5.87" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="33.3 15.07 30.21 38.32 35.29 43.38 43.21 24.9" fill="none" stroke="#0045d4" stroke-width="2" fill-rule="evenodd"/>
+    <polyline points="40.75 8.14 63.5 5.13 68.58 10.19 50.74 17.79" fill="none" stroke="#0045d4" stroke-width="2" fill-rule="evenodd"/>
+    <polyline points="50.7 30.96 47.14 41.94 51.05 45.83 57.36 35.73" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <polyline points="56.84 25.43 66.97 22.17 70.88 26.06 61.29 32.02" fill="none" stroke="#0045d4" stroke-width="2" fill-rule="evenodd"/>
+    <path d="M40.86,22.79c-9.62-9.59-16.8-18-13.74-21s11.48,4.1,21.11,13.7c2.45,2.45,16.52,18.27,13.74,21S43.59,25.51,40.86,22.79Z" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path d="M40.86,22.79c-9.62-9.59-16.8-18-13.74-21s11.48,4.1,21.11,13.7c2.45,2.45,16.52,18.27,13.74,21S43.59,25.51,40.86,22.79Z" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M33.37,15A4.89,4.89,0,1,1,40.3,8" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="18" y1="18" x2="6" y2="18" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <line x1="12" y1="12" x2="12" y2="24" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <path d="M18,65h6s-.06-30,0-30H9L1,48V65H7" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <ellipse cx="12.86" cy="65.17" rx="5.9" ry="5.87" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="290" height="365" viewBox="0 0 290 365" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <defs>
+
+        <polygon id="svg-defs-container" points="179.47 20.22 179.47 64.21 102.44 96.6 63.51 79.99 63.51 35.93 140.62 3.94 179.47 20.22"/>
+
+<!--    Disabled because transitions on masks are not supported in Firefox
+
+        <mask id="svg-mask-container" x="0" y="0" width="290" height="365">
+            <rect fill="white" x="0" y="0" width="100%" height="100%"/>
+            <use xlink:href="#svg-defs-container" uk-parallax="y: 180px; viewport: 0.7"/>
+        </mask> -->
+
+    </defs>
+
+<!--     <g class="svg-containers-bottom" mask="url(#svg-mask-container)"> -->
+    <g class="svg-containers-bottom">
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M63.23,283.57,42.4,292.32v-44l77.1-32.4m-116,15.8,38.9,16.6m0,44L3.5,275.72c.18,0,0-44,0-44l77.1-32L120,216v19m-98.1,4.52v43.7m34.4-30.6v24.7m-27.7-6.9v-9.8m-13.5,4.5v-9.9m54.1-7.9v8.9M81.3,242v8.91m12.4-14.21v9.34m12.4-14.34V241m98.3,120.29-38.9-16.6v-44l38.9,16.6Zm0,0,77.1-32.4v-44l-38.9-16.2-77.1,32m18.4,7.8v43.7m34.4-30.6v24.7m-27.7-6.9v-9.8m-13.5,4.5v-9.9m54.1-7.9V341m12.1-30v24.7m12.4-30v24.7m12.4-29.7v24.7m-63.7-8.1,77.1-32.4"/>
+
+        <path class="uk-text-primary" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M179.5,286.92l-77.1,32.4v-44l77.1-32.4Zm-77.1,32.4-38.9-16.6v-44l38.9,16.6m77.1-32.4-38.9-16.2-77.1,32m18.4,8.8v42.93m34.4-30.83v24.7m-27.7-6.9v-9.8m-13.5,4.5v-9.9m54.1-7.9V299m12.1-30v24.7m12.4-30v24.7m12.4-29.7v24.7"/>
+    </g>
+
+    <g class="svg-containers-top" data-uk-parallax="y: 180px; viewport: 0.7">
+        <use xlink:href="#svg-defs-container" class="uk-svg-default-background" fill="#fff"/>
+        <use xlink:href="#svg-defs-container" class="uk-text-primary" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"/>
+        <path class="uk-text-primary" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M81.87,43.8V87.51M116.3,56.88V81.56M88.62,74.68V64.86m-13.5,4.46V59.5m54.12-7.92V76.27m12-30V71m12.39-30V65.68M166.06,36V60.67M102.44,96.6v-44M63.51,35.93l39,16.63,77-32.35"/>
+    </g>
+
+</svg>

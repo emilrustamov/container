@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <fields name="params">
+        <fieldset name="aimy_cncl" label="Aimy Canonical">
+            <field type="spacer" class="aimycanonical-intro"
+                label="AIMY_CNCL_CANONICAL_PATH_INTRO" />
+            <field name="aimy_cncl_cpath"
+                type="text"
+                default=""
+                class="inputbox"
+                label="AIMY_CNCL_CANONICAL_PATH_LBL"
+                description="AIMY_CNCL_CANONICAL_PATH_DSC" />
+            <field name="aimy_cncl_override"
+                type="radio" default="0"
+                class="btn-group btn-group-yesno"
+                labelclass="control-group"
+                label="AIMY_CNCL_CANONICAL_OVERRIDE_LBL"
+                description="AIMY_CNCL_CANONICAL_OVERRIDE_DSC">
+                  <option value="0">JNO</option>
+                  <option value="1">JYES</option>
+            </field>
+            <field name="aimy_cncl_cdomain" type="text" default=""
+                showon="aimy_cncl_override:1"
+                class="inputbox"
+                label="AIMY_CNCL_DOMAIN_LBL"
+                description="AIMY_CNCL_OVERRIDE_DOMAIN_DSC" />
+            <field name="aimy_cncl_cprotocol"
+                showon="aimy_cncl_override:1"
+                type="radio" default="http"
+                class="btn-group btn-group-yesno"
+                labelclass="control-group"
+                label="AIMY_CNCL_PROTOCOL_LBL"
+                description="AIMY_CNCL_OVERRIDE_PROTOCOL_DSC">
+                  <option value="http">http</option>
+                  <option value="https">https</option>
+            </field>
+        </fieldset>
+    </fields>
+</form>
+<!-- vim: set ft=xml sts=4 sw=4 ts=4 ai et: -->

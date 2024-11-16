@@ -1,0 +1,5 @@
+a:1:{i:0;a:9:{s:9:"filemtime";i:1731743824;s:4:"etag";s:32:"0177ad8f238864a8514982611b11c32a";s:8:"contents";s:665:"@charset "utf-8";
+/***!  /media/mod_languages/css/template.min.css?e4cb5de5de469c99094a2c73746b7d6c  !***/
+
+div.mod-languages ul{margin:0;padding:0;list-style:none}div.mod-languages li{margin:0 .5rem}div.mod-languages ul.lang-inline li{display:inline-block}div.mod-languages .dropdown-menu{padding:.5rem 0}div.mod-languages ul.lang-block li{text-align:start;padding:.5rem 0;display:block}div.mod-languages ul li.lang-active{background-color:#f0f0f0}div.mod-languages img{border:none;display:inline-block}div.mod-languages a{padding:.5rem;text-decoration:none}div.mod-languages .btn-group{margin:0;display:flex!important}div.mod-languages .btn-group .btn{flex:none}
+";s:6:"images";a:0:{}s:9:"font-face";a:0:{}s:11:"preconnects";a:0:{}s:6:"gfonts";a:0:{}s:11:"bgselectors";a:0:{}s:9:"lcpImages";a:0:{}}}

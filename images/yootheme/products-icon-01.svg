@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="55" viewBox="0 0 150 55">
+    <path d="M39,34V16H24a3.09,3.09,0,0,0-2.56,1.83L18.87,25.4,6,27a2.88,2.88,0,0,0-1.52.94A3.93,3.93,0,0,0,4,30v9" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+    <polyline points="8 39 3 39 3 44 8 44" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polygon points="22.42 26.76 34.88 26.76 34.88 19.9 24.55 19.9 22.42 26.76" fill="none" class="uk-text-primary" stroke="#0045d4" stroke-width="2"/>
+    <path d="M27,16a61.12,61.12,0,0,1,5.73-5.39C35.2,8.79,39,9,39,9v7Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="22" y1="44" x2="45" y2="44" fill="none" stroke="#000" stroke-width="2"/>
+    <path d="M69,44h3V35H12c-2.3,0-4,.59-4,3v6h3" fill="none" stroke="#000" stroke-width="2"/>
+    <ellipse cx="16.47" cy="43.7" rx="5.55" ry="5.54" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="143.74" y1="37.13" x2="140.6" y2="40.26" fill="none" stroke="#000" stroke-width="2"/>
+    <line x1="113.8" y1="37.12" x2="119.18" y2="40.26" fill="none" stroke="#000" stroke-width="2"/>
+    <rect x="51" y="31" width="13" height="4" fill="none" stroke="#000" stroke-width="2"/>
+    <ellipse cx="16.47" cy="43.7" rx="1.57" ry="1.57" fill="#000"/>
+    <ellipse cx="50.9" cy="43.7" rx="5.55" ry="5.54" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="50.9" cy="43.7" rx="1.57" ry="1.57" fill="#000"/>
+    <ellipse cx="63.16" cy="43.7" rx="5.55" ry="5.54" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="63.16" cy="43.7" rx="1.57" ry="1.57" fill="#000"/>
+    <ellipse cx="123.5" cy="43.7" rx="5.55" ry="5.54" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="123.5" cy="43.7" rx="1.57" ry="1.57" fill="#000"/>
+    <ellipse cx="135.75" cy="43.7" rx="5.55" ry="5.54" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="135.75" cy="43.7" rx="1.57" ry="1.57" fill="#000"/>
+    <polygon points="44 6 43.97 31 75 31 80 37 147 37 147 6 44 6" fill="none" class="uk-text-primary" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+</svg>

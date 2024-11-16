@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="65" viewBox="0 0 70 65">
+    <circle cx="25.44" cy="39.83" r="23.44" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <path d="M41.48,22.75a24.68,24.68,0,0,0-3.88.56C32.23,24.56,25.24,28,18.29,35.92,11,44.26,10,53.05,10.46,57.54" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <path d="M48.72,42.51a6.92,6.92,0,0,0-4.36-3.64c-3.11-.94-11.1-2.18-14.79-4.92a14.75,14.75,0,0,1-5.93-9.62c-.3-2.77-.09-6.11-.43-7.82" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <path d="M28.09,63.11a9.55,9.55,0,0,1-2.7-2.56c-1.82-2.69-3.07-9.19-3.82-12S19,40.69,13.71,38.94c-5-1.66-9.14-.62-11.53-1.94" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <line x1="9.2" y1="23.19" x2="41.84" y2="56.02" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <line x1="40.46" y1="20.97" x2="64.35" y2="7.26" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <line x1="43.45" y1="54.8" x2="63.79" y2="41.89" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <line x1="32.15" y1="10.03" x2="45.63" y2="2" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <line x1="53.97" y1="32.88" x2="68.58" y2="24.13" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+</svg>

@@ -1,0 +1,1 @@
+a:1:{i:0;a:1:{s:7:"content";s:268:"try{document.currentScript.insertAdjacentHTML('afterend','<time datetime="'+new Date().toJSON()+'">'+new Intl.DateTimeFormat(document.documentElement.lang,{year:'numeric'}).format()+'</time>');}catch(e){console.error('Error in script declaration; Error:'+e.message);};";}}

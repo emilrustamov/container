@@ -1,0 +1,1 @@
+a:1:{i:0;a:1:{s:7:"content";s:273:"try{document.addEventListener('DOMContentLoaded',function(){Array.prototype.slice.call(document.querySelectorAll('a span[id^="cloak"]')).forEach(function(span){span.innerText=span.textContent;});});}catch(e){console.error('Error in script declaration; Error:'+e.message);};";}}

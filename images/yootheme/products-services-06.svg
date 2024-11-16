@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="61" viewBox="0 0 58 61">
+    <path d="M47.36,2V8.59c0,5.88,1.94,11.28,2.65,14a30,30,0,0,1,1.23,8.47v7.13" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <path d="M33.07,20.5A41.66,41.66,0,0,0,35.19,8.59V2" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <line x1="32.07" y1="2" x2="50.18" y2="2" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <polyline points="26.89 14.23 10.32 17.75 14.81 27.06 33.75 21.63" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <path d="M55.65,47.63A11.88,11.88,0,1,1,39.82,36.42l.17-.05c.27-.09.53-.17.81-.24.45,1.88,2.37,2.67,4.46,1.73a2.93,2.93,0,0,0,1.41-1.75,11.87,11.87,0,0,1,9,11.52Z" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <path d="M40.48,34.9a5.25,5.25,0,0,0-.9-1.15,6.55,6.55,0,0,0-1.92-1.14" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <path d="M46.67,36.11a2.93,2.93,0,0,1-1.41,1.75c-2.09.94-4,.15-4.46-1.73a4.22,4.22,0,0,1,0-2.06c.8-3.26,6.53-5.28,6.53-5.28S47.73,33.41,46.67,36.11Z" fill="none" stroke="#0045d4" stroke-linecap="round" stroke-width="2"/>
+    <polyline points="32.57 51.74 14.83 56.95 2 51.48 2 21.76 9.63 17.66 9.63 12.01 26.83 8.96 26.83 14.35 33.75 21.63 33.75 40.82" fill="none" stroke="#0045d4" stroke-width="2"/>
+    <polyline points="2 21.76 14.81 27.06 14.81 56.97" fill="none" stroke="#0045d4" stroke-width="2"/>
+</svg>
