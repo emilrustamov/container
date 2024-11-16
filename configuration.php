@@ -20,7 +20,7 @@ class JConfig {
 	public $cors_allow_headers = 'Content-Type,X-Joomla-Token';
 	public $cors_allow_methods = '';
 	public $cors_allow_origin = '*';
-	public $db = 'u2526582_default';
+	public $db = '';
 	public $dbencryption = 1;
 	public $dbprefix = 'va1tv_';
 	public $dbsslca = '';
@@ -64,7 +64,7 @@ class JConfig {
 	public $offline_image = '';
 	public $offline_message = 'Сайт закрыт на техническое обслуживание. Пожалуйста, зайдите позже.';
 	public $offset = 'UTC';
-	public $password = 'uC8qD4jR2ccV0vX3';
+	public $password = '';
 	public $proxy_enable = false;
 	public $proxy_host = '';
 	public $proxy_pass = '';
@@ -78,7 +78,7 @@ class JConfig {
 	public $replyto = '';
 	public $replytoname = '';
 	public $robots = '';
-	public $secret = 'JbrjlnHdEmaHcEpRKu06SvTESV0Psd0b';
+	public $secret = '';
 	public $sef = true;
 	public $sef_rewrite = true;
 	public $sef_suffix = false;
@@ -105,5 +105,5 @@ class JConfig {
 	public $smtpuser = '';
 	public $tmp_path = '/var/www/u2526582/data/www/container-tm.com/tmp';
 	public $unicodeslugs = false;
-	public $user = 'u2526582_default';
+	public $user = '';
 }
